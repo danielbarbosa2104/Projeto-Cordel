@@ -32,7 +32,7 @@ html, body {
 header {
     background-color: var(--cor02);
     color: white;
-    text-align: center;
+    text-align: justify;
 }
 
 header > h1 {
@@ -40,6 +40,7 @@ header > h1 {
     color: #fbe0a2;
     font-variant: small-caps;
     font-size: 10vw;
+    padding-top: 5px;
     padding-left: 7px;
 }
 
